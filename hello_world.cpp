@@ -2,7 +2,7 @@
 
 int main(int argc, char **argv)
 {
-	// Prevent the compiler from complaining about the unused parameters
+	// Для избежания предупреждений от компилятора о неиспользуемых параметрах
 	(void) argc;
 	(void) argv;
 
