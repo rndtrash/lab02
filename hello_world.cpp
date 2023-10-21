@@ -2,6 +2,7 @@
 
 int main(int argc, char **argv)
 {
+	// Prevent the compiler from complaining about the unused parameters
 	(void) argc;
 	(void) argv;
 
